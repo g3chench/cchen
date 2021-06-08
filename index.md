@@ -12,7 +12,7 @@ I have a pet western hognose snake (_Heterodon nasicus_). Her name is Beagle!
 
 <div style="text-align: center;">
 	<a href="/assets/beagle.jpg">
-		<img src="/assets/beagle.jpg" height="200">
+		<img src="/assets/beagle.jpeg" height="200">
 	</a>
 </div>
 
