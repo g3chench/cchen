@@ -1,6 +1,6 @@
 ### Welcome!
 
-This was my personal website, once upon a time when it might've been useful for me to have one. Now I suppose it serves as a demo of the kind of website I can generate for you using [GitHub Pages](https://pages.github.com).
+This was my personal website, once upon a time when it might've been useful for me to have one. Now I suppose it serves as a demo of the kind of website I can generate for you in less time than it takes to do a Torghast run using [GitHub Pages](https://pages.github.com).
 
 ### About
 
@@ -10,7 +10,7 @@ I am currently enrolled in the [Professional Development Program](https://www.sf
 
 I have a pet western hognose snake (_Heterodon nasicus_). Her name is Beagle!
 
-<img src="/assets/beagle.jpg" width="500">
+<img src="/assets/beagle.jpg" width="500" style="float: right;">
 
 
 ### Courses
