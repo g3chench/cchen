@@ -25,7 +25,7 @@ I was a Teaching Assistant for the following courses at UofT:
 - [CSC165H1](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses) - Mathematical Expression and Reasoning for Computer Science
 - [CSC236H1](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses) - Introduction to the Theory of Computation
 
-I spent a few years as an educator at [Microsoft's TEALS Program](https://www.microsoft.com/en-us/teals) as well as [Ocean Wise](https://www.vanaqua.org/) in preparation for the Professional Development Program.
+I spent a few years as an educator at [Microsoft's TEALS Program](https://www.microsoft.com/en-us/teals) as well as the [Vancouver Aquarium](https://www.vanaqua.org/) (then an [Ocean Wise](https://ocean.org/) initiative) in preparation for the Professional Development Program.
 
 
 ### Projects
