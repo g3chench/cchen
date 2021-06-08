@@ -10,7 +10,7 @@ I am currently enrolled in the [Professional Development Program](https://www.sf
 
 I have a pet western hognose snake (_Heterodon nasicus_). Her name is Beagle!
 
-![](/assets/beagle.jpg =50%)
+![](/assets/beagle.jpg =1000px)
 
 
 ### Courses
