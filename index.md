@@ -10,10 +10,10 @@ I am currently enrolled in the [Professional Development Program](https://www.sf
 
 I have a pet western hognose snake (_Heterodon nasicus_). Her name is Beagle!
 
-![beagle](beagle.png)
+![beagle](beagle.jpg)
 
 
-### Teaching
+### Courses
 
 I was a Teaching Assistant for the following courses at UofT:
 
