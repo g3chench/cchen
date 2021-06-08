@@ -30,7 +30,7 @@ I was a Teaching Assistant for the following courses at UofT:
 
 I've culled most of my projects in the years since I graduated, but here are a few that remain:
 
-- [Courseography](https://courseography.cdf.toronto.edu/graph) - A set of graphical interactive tools to guide students through their academic careers at UofT. [Haskell](https://www.haskell.org/) backend and [React](https://reactjs.org/) frontend.
+- [Courseography](https://courseography.cdf.toronto.edu/graph) - A set of graphical interactive tools to guide students through their academic careers at UofT. Powered by a [Haskell](https://www.haskell.org/) backend and [React](https://reactjs.org/) frontend.
 
 - [FlynnBot](https://discord.com/developers/applications/770906949898338305/information) - Some dumb bot I made for a fandom Discord once because I thought it would be funny. A self-hosted instance of [YAGPDB](https://yagpdb.xyz/).
 
