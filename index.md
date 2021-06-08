@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/g3chench/cchen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This was my personal website, once upon a time when I thought it was cool to have one. Now I suppose it serves as a demo of the kind of website I can generate for you in less time than it takes to do a Torghast run.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I graduated from the [University of Toronto](https://www.utoronto.ca/) in 2017 with a specialist in Computer Science, major in Biology, and minor in Statistics. I am currently enrolled in the [Professional Development Program at Simon Fraser University](https://www.sfu.ca/education/teachersed/programs/pdp/overview.html), 
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +26,20 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Teaching
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/g3chench/cchen/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I have a Teaching Assistant for the following courses at UofT:
 
-### Support or Contact
+- [CSC148H1: Introduction to Computer Science](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses)
+- [CSC165H1: Mathematical Expression and Reasoning for Computer Science](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses)
+- [CSC236H1 - Introduction to the Theory of Computation](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Projects
+
+I've culled most of my projects in the years since I graduated, but here are a few notable ones:
+
+- [Courseography](https://github.com/Courseography/courseography): A tool created by David Liu and Ian Stewart-Binks to guide students through their undergraduate careers at UofT. Powered by a [Haskell](https://www.haskell.org/) backend with a [React](https://reactjs.org/) frontend.
+
+- [FlynnBot](https://discord.com/developers/applications/770906949898338305/information): Some dumb bot I made for a fandom Discord once because I thought it would be funny. A self-hosted instance of [YAGPDB](https://yagpdb.xyz/)
+
+### Resume
