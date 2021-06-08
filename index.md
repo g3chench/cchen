@@ -11,7 +11,7 @@ I am currently enrolled in the [Professional Development Program](https://www.sf
 I have a pet western hognose snake (_Heterodon nasicus_)! Her name is Beagle.
 
 <div style="text-align: center;">
-	<img src="/assets/beagle.jpg" height="250">
+	<img src="/assets/beagle.jpg" height="200">
 </div>
 
 
