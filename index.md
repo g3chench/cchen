@@ -25,10 +25,12 @@ I was a Teaching Assistant for the following courses at UofT:
 - [CSC165H1](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses) - Mathematical Expression and Reasoning for Computer Science
 - [CSC236H1](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses) - Introduction to the Theory of Computation
 
+You don't want to know the courses I've _taken_, do you? That's going to be longer than the rest of this website. Transcript available upon request.
+
 
 ### Projects
 
-I've culled most of my projects in the years since I graduated, but here are a few out of the ones that remain:
+I've culled most of my projects in the years since I graduated, but here are a few of the ones that remain:
 
 - [Courseography](https://courseography.cdf.toronto.edu/graph) - A set of graphical interactive tools to guide students through their academic careers at UofT. Powered by a [Haskell](https://www.haskell.org/) backend and [React](https://reactjs.org/) frontend.
 
