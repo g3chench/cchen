@@ -28,7 +28,7 @@ I was a Teaching Assistant for the following courses at UofT:
 
 ### Projects
 
-I've culled most of my projects in the years since I graduated, but here are a few that remain:
+I've culled most of my projects in the years since I graduated, but here are a few of the ones that remain (see my GitHub for the rest):
 
 - [Courseography](https://courseography.cdf.toronto.edu/graph) - A set of graphical interactive tools to guide students through their academic careers at UofT. Powered by a [Haskell](https://www.haskell.org/) backend and [React](https://reactjs.org/) frontend.
 
@@ -39,4 +39,4 @@ I have also been a Bioinformatics Research Assistant at the [Chang Lab](https://
 
 ### Resume
 
-You can find a more poorly-formatted version of the resume I used for my Professional Development Program application [here](/assets/resume.pdf).
+I used to link my resume here, but there's too much personal information for what is now essentially a demo site. Trust me, you wouldn't have wanted to see it anyway.
