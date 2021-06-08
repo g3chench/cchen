@@ -2,7 +2,7 @@
 
 This was my personal website, once upon a time when it might've been useful for me to have one. Now I suppose it serves as a demo of the kind of website I can generate in less time than it takes to do a Torghast run using [GitHub Pages](https://pages.github.com).
 
-### About
+### About Me
 
 I graduated from the [University of Toronto](https://www.utoronto.ca/) in 2017 with a specialist in computer science, major in biology, and minor in statistics.
 
@@ -17,15 +17,13 @@ I have a pet western hognose snake (_Heterodon nasicus_). Her name is Beagle!
 </div>
 
 
-### Teaching
+### Courses Taught
 
 I was a Teaching Assistant for the following courses at UofT:
 
 - [CSC148H1](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses) - Introduction to Computer Science
 - [CSC165H1](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses) - Mathematical Expression and Reasoning for Computer Science
 - [CSC236H1](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses) - Introduction to the Theory of Computation
-
-After graduating, I spent a few years as an educator at [Microsoft's TEALS Program](https://www.microsoft.com/en-us/teals) as well as [Ocean Wise](https://www.vanaqua.org/) in preparation for the Professional Development Program.
 
 
 ### Projects
@@ -38,7 +36,7 @@ I've culled most of my projects in the years since I switched career paths, but 
 
 See my GitHub for the rest.
 
-I have also been a Bioinformatics Research Assistant at the [Chang Lab](https://chang.eeb.utoronto.ca/) and an IT Technician at the [Ontario Institute for Studies in Education](https://www.oise.utoronto.ca/oise/Home/).
+I have also been a Bioinformatics Research Assistant at the [Chang Lab](https://chang.eeb.utoronto.ca/).
 
 
 ### Resume
