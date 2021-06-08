@@ -1,4 +1,3 @@
-
 ### Welcome!
 
 This was my personal website, once upon a time when it might've been useful for me to have one. Now I suppose it serves as a demo of the kind of website I can generate for you using [GitHub Pages](https://pages.github.com).
