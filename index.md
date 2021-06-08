@@ -36,7 +36,7 @@ I've culled most of my projects in the years since I graduated, but here are a f
 
 See my GitHub for the rest.
 
-I have also been a Bioinformatics Research Assistant at the [Chang Lab](https://chang.eeb.utoronto.ca/).
+I have also been a Bioinformatics Research Assistant at the [Chang Lab](https://chang.eeb.utoronto.ca/), and an IT Technician at the [Ontario Institute for Studies in Education](https://www.oise.utoronto.ca/oise/Home/).
 
 
 ### Resume
