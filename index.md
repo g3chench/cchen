@@ -8,10 +8,10 @@ I graduated from the [University of Toronto](https://www.utoronto.ca/) in 2017 w
 
 I am currently enrolled in the [Professional Development Program](https://www.sfu.ca/education/teachersed/programs/pdp/overview.html) at [Simon Fraser University](https://www.sfu.ca/), Secondary Sciences stream.
 
-I have a pet western hognose snake (_Heterodon nasicus_). Her name is Beagle!
+I have a pet western hognose snake (_Heterodon nasicus_)! Her name is Beagle.
 
 <div style="text-align: center;">
-	<img src="/assets/beagle.jpg" height="200">
+	<img src="/assets/beagle.jpg" width="500">
 </div>
 
 
