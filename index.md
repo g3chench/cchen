@@ -32,9 +32,10 @@ I've culled most of my projects in the years since I switched career paths, but 
 
 - [Courseography](https://courseography.cdf.toronto.edu/graph) - A set of graphical interactive tools to guide students through their academic careers at UofT. Powered by a [Haskell](https://www.haskell.org/) backend and [React](https://reactjs.org/) frontend.
 
+- [Router](https://github.com/g3chench/router) - An implementation of a [simple router](https://github.com/mininet/mininet/wiki/Simple-Router) with [network address translator (NAT)](https://github.com/mininet/mininet/wiki/Network-Address-Translator-(NAT)) in C. Runs on top of [Mininet](http://mininet.org/).
+
 - [FlynnBot](https://discord.com/developers/applications/770906949898338305/information) - Some dumb bot I made for a fandom Discord once because I thought it would be funny. A self-hosted instance of [YAGPDB](https://yagpdb.xyz/).
 
-See my GitHub for the rest.
 
 I have also been a bioinformatics research assistant at the [Chang Lab](https://chang.eeb.utoronto.ca/).
 
