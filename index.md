@@ -4,11 +4,15 @@ This was my personal website, once upon a time when it might've been useful for 
 
 ### About
 
-<p> <img src="/assets/beagle.jpg" height="200" float:right;> I graduated from the [University of Toronto](https://www.utoronto.ca/) in 2017 with a specialist in Computer Science, major in Biology, and minor in Statistics.<br>
+I graduated from the [University of Toronto](https://www.utoronto.ca/) in 2017 with a specialist in Computer Science, major in Biology, and minor in Statistics.
 
-I am currently enrolled in the [Professional Development Program](https://www.sfu.ca/education/teachersed/programs/pdp/overview.html) at [Simon Fraser University](https://www.sfu.ca/), Secondary Sciences stream.<br>
+I am currently enrolled in the [Professional Development Program](https://www.sfu.ca/education/teachersed/programs/pdp/overview.html) at [Simon Fraser University](https://www.sfu.ca/), Secondary Sciences stream.
 
-I have a pet western hognose snake (_Heterodon nasicus_). Her name is Beagle!</p>
+I have a pet western hognose snake (_Heterodon nasicus_). Her name is Beagle!
+
+<div style="text-align: center;">
+	<img src="/assets/beagle.jpg" height="200">
+</div>
 
 
 ### Courses
