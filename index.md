@@ -8,7 +8,7 @@ I graduated from the [University of Toronto](https://www.utoronto.ca/) in 2017 w
 
 I am currently enrolled in the [Professional Development Program](https://www.sfu.ca/education/teachersed/programs/pdp/overview.html) at [Simon Fraser University](https://www.sfu.ca/), Secondary Sciences stream.
 
-I have a pet western hognose snake (_Heterodon nasicus_)! Her name is Beagle.
+I have a pet western hognose snake (_Heterodon nasicus_). Her name is Beagle!
 
 <div style="text-align: center;">
 	<a href="/assets/beagle.jpg">
@@ -21,9 +21,9 @@ I have a pet western hognose snake (_Heterodon nasicus_)! Her name is Beagle.
 
 I was a Teaching Assistant for the following courses at UofT:
 
-- [CSC148H1 - Introduction to Computer Science](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses)
-- [CSC165H1 - Mathematical Expression and Reasoning for Computer Science](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses)
-- [CSC236H1 - Introduction to the Theory of Computation](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses)
+- [CSC148H1](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses) - Introduction to Computer Science
+- [CSC165H1](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses) - Mathematical Expression and Reasoning for Computer Science
+- [CSC236H1](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses) - Introduction to the Theory of Computation
 
 
 ### Projects
