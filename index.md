@@ -41,4 +41,4 @@ I have also been a Bioinformatics Research Assistant at the [Chang Lab](https://
 
 ### Resume
 
-I used to link my resume here, but it contained too much personal information for what is now essentially a demo site. Available upon request.
+I used to link my resume, but it contained too much personal information for what is now essentially a demo site. Available upon request.
