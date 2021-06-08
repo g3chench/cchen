@@ -36,7 +36,6 @@ I've culled most of my projects in the years since I switched career paths, but 
 
 - [FlynnBot](https://discord.com/developers/applications/770906949898338305/information) - Some dumb bot I made for a fandom Discord once because I thought it would be funny. A self-hosted instance of [YAGPDB](https://yagpdb.xyz/).
 
-
 I have also been a bioinformatics research assistant at the [Chang Lab](https://chang.eeb.utoronto.ca/).
 
 
