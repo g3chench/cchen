@@ -30,8 +30,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 I have a Teaching Assistant for the following courses at UofT:
 
-- [CSC148H1: Introduction to Computer Science](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses)
-- [CSC165H1: Mathematical Expression and Reasoning for Computer Science](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses)
+- [CSC148H1 - Introduction to Computer Science](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses)
+- [CSC165H1 - Mathematical Expression and Reasoning for Computer Science](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses)
 - [CSC236H1 - Introduction to the Theory of Computation](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses)
 
 ### Projects
