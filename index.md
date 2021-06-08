@@ -1,6 +1,6 @@
 ### Welcome!
 
-This was my personal website, once upon a time when I thought it was cool to have one. Now I suppose it serves as a demo of the kind of website I can generate for you in less time than it takes to do a Torghast run.
+This was my personal website, once upon a time when it might've been useful for me to have one. Now I suppose it serves as a demo of the kind of website I can generate for you in less time than it takes to do a Torghast run.
 
 ### About
 
