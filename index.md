@@ -19,7 +19,7 @@ I have a pet western hognose snake (_Heterodon nasicus_). Her name is Beagle!
 
 ### Courses Taught
 
-I was a Teaching Assistant for the following courses at UofT:
+I was a teaching assistant for the following courses at UofT:
 
 - [CSC148H1](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses) - Introduction to Computer Science
 - [CSC165H1](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses) - Mathematical Expression and Reasoning for Computer Science
@@ -36,7 +36,7 @@ I've culled most of my projects in the years since I switched career paths, but 
 
 See my GitHub for the rest.
 
-I have also been a Bioinformatics Research Assistant at the [Chang Lab](https://chang.eeb.utoronto.ca/).
+I have also been a bioinformatics research assistant at the [Chang Lab](https://chang.eeb.utoronto.ca/).
 
 
 ### Resume
