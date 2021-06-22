@@ -32,7 +32,7 @@ I've culled most of my projects in the years since I switched career paths, but 
 
 - [Courseography](https://courseography.cdf.toronto.edu/graph) - A set of graphical interactive tools to guide students through their academic careers at UofT. Powered by a [Haskell](https://www.haskell.org/) backend and [React](https://reactjs.org/) frontend.
 
-- [FlynnBot](https://discord.com/developers/applications/770906949898338305/information) - Some dumb bot I made for a fandom Discord because I thought it would be funny. A self-hosted instance of [YAGPDB](https://yagpdb.xyz/).
+- [FlynnBot](https://discord.com/developers/applications/770906949898338305/information) - Some dumb bot I made for a community Discord because I thought it would be funny. A self-hosted instance of [YAGPDB](https://yagpdb.xyz/).
 
 See my GitHub for the rest.
 
