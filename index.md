@@ -1,6 +1,6 @@
 ### Welcome!
 
-This was my personal website, once upon a time when it might've been useful for me to have one. Now I suppose it serves as a demo of the kind of website I can generate in less time than it takes to do a Torghast run, using [GitHub Pages](https://pages.github.com).
+This was my personal website, once upon a time when it might've been useful for me to have one. Now I suppose it serves as a demo of the kind of website I can generate in less time than it takes to do a lesson plan, using [GitHub Pages](https://pages.github.com).
 
 ### About Me
 
