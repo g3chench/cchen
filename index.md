@@ -1,6 +1,6 @@
 ### Welcome!
 
-This was my personal website, once upon a time when it might've been useful for me to have one. Now I suppose it serves as a demo of the kind of website I can generate in less time than it takes to do a Torghast run, using [GitHub Pages](https://pages.github.com).
+This was my personal website, once upon a time when it might've been useful for me to have one. Now I suppose it serves as a demo of the kind of website I can generate in less time than it takes to do a lesson plan, using [GitHub Pages](https://pages.github.com).
 
 ### About Me
 
@@ -32,7 +32,7 @@ I've culled most of my projects in the years since I switched career paths, but 
 
 - [Courseography](https://courseography.cdf.toronto.edu/graph) - A set of graphical interactive tools to guide students through their academic careers at UofT. Powered by a [Haskell](https://www.haskell.org/) backend and [React](https://reactjs.org/) frontend.
 
-- [FlynnBot](https://discord.com/developers/applications/770906949898338305/information) - Some dumb bot I made for a community Discord because I thought it would be funny. A self-hosted instance of [YAGPDB](https://yagpdb.xyz/).
+- [FlynnBot](https://discord.com/developers/applications/770906949898338305/information) - Some random bot I made for a community Discord because I thought it would be funny. A self-hosted instance of [YAGPDB](https://yagpdb.xyz/).
 
 - [Replit](https://replit.com/@g3chench) - Miscellaneous scripts, mostly for educational purposes.
 
